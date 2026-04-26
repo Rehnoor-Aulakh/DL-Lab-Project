@@ -76,11 +76,5 @@ The **standard full-data training approach** provided the best results, achievin
 
 ---
 
-## 🛠️ Technologies Used
-- Python
-- TensorFlow / Keras
-- NumPy
-- Matplotlib
 
----
 
